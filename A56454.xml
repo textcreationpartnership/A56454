@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nehemiah, or, The excellent governour being a discourse delivered at the cathedrall of the Holy Trinity, Dublin, Aug. 1669, before the Right Honourable Thomas Earl of Ossory ... / by J.P. ...</title>
+            <author>Parry, John, d. 1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56454</idno>
+            <idno type="STC">Wing P558</idno>
+            <idno type="STC">ESTC R33024</idno>
+            <idno type="EEBO-CITATION">12841683</idno>
+            <idno type="OCLC">ocm 12841683</idno>
+            <idno type="VID">94397</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56454)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94397)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1038:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nehemiah, or, The excellent governour being a discourse delivered at the cathedrall of the Holy Trinity, Dublin, Aug. 1669, before the Right Honourable Thomas Earl of Ossory ... / by J.P. ...</title>
+                  <author>Parry, John, d. 1677.</author>
+               </titleStmt>
+               <extent>[4], 35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hall ... for Ric. Davis,</publisher>
+                  <pubPlace>Oxford:</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Parry by Wing and NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ossory, Thomas Butler, --  Earl of, 1634-1680.</term>
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  O.T. --  Nehemiah XIII.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94397:1"/>
+            <pb facs="tcp:94397:1" rendition="simple:additions"/>
+            <p>
+               <hi>NEHEMIAH,</hi> OR, THE EXCELLENT GOVERNOVR.</p>
+            <p>BEING A Diſcourſe delivered at the Ca<g ref="char:EOLhyphen"/>thedrall of the Holy TRINITY, <hi>Dublin, Aug.</hi> 1669.</p>
+            <p>Before the Right Honourable THOMAS Earle of OSSORY Then Lord Deputy of <hi>Ireland.</hi>
+            </p>
+            <p>BY <hi>J. P.</hi> D. D. and Dean of the ſaid Church.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>H. Hall</hi> Printer to the Vniverſity, for <hi>Ric. Davis. An. Dom.</hi> 1670.</p>
+            <pb facs="tcp:94397:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:94397:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:94397:3" rendition="simple:additions"/>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>
+                  <hi>P. MEWS</hi> Vicecan. OXON.</signed>
+               <dateline>
+                  <date>Jan. 2. 1669/70.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:94397:3"/>
+            <head>TO THE RIGHT HONOVRABLE, AND TRULY NOBLE THOMAS Earle of OSSORY, late Lord Deputy of <hi>Ireland,</hi> and eldeſt Son to the Illuſtrious Prince JAMES Duke of ORMOND His Grace &amp;c.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His Sermon which not long ſince had the honour of Your Lordſhip's eare, I have now made bold to preſent more publickly to Your Lord<g ref="char:EOLhyphen"/>ſhip's eye, being ambitious to let the world ſee that thoſe great obligations of Duty and Honour which the Author owes Your Lordſhip and illuſtrious Fa<g ref="char:EOLhyphen"/>milie,
+<pb facs="tcp:94397:4"/> are a part of my debt alſo, not on<g ref="char:EOLhyphen"/>ly as related to Him, and a Father be<g ref="char:EOLhyphen"/>fore Him, eminent by your Favours, but alſo in the honour of being knowne to your Lordſhip and moſt Noble Fa<g ref="char:EOLhyphen"/>mily, and alſo by many Favours per<g ref="char:EOLhyphen"/>ticularly obliged to ſubſcribe my ſelfe with all gratitude and zeale,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Lordſhip's <hi>Moſt Humble, and Devoted ſervant B.P.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:94397:4"/>
+            <epigraph>
+               <bibl>NEHEMIAH c. 13. v. 14.</bibl>
+               <q>Remember me O God concerning this, and wipe not out the good deeds which I have done for the houſe of my God and the offices thereof.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the midſt of Judgment <hi>God</hi> uſually remembers Mercy, and a Nation once choſen by <hi>Him,</hi> may in its <hi>loweſt ebb</hi> (if there be any hopes of amendment) find a reſerve of kindneſſe.</p>
+            <p>Though the <hi>Iſraelites</hi> (for their Rebelli<g ref="char:EOLhyphen"/>on and impenitency) be overwhelmed by all the miſeries of War <hi>at home,</hi> and oft times carried Captive to a ſtrange land a<g ref="char:EOLhyphen"/>broad;
+<pb n="2" facs="tcp:94397:5"/> yet <hi>God</hi> doth not utterly <hi>forget</hi> them in their bondage,<note place="margin">The Jewes in their loweſt e<g ref="char:EOLhyphen"/>state are owned by God, who rai<g ref="char:EOLhyphen"/>ſeth ſome of their own Na<g ref="char:EOLhyphen"/>tion ſtill to be in favour with the Conqueror.</note> 
+               <hi>he</hi> is pleaſed ſtill to <hi>raiſe up</hi> ſome of their owne Nation to be in fa<g ref="char:EOLhyphen"/>vour with the Conquerours: whoſe en<g ref="char:EOLhyphen"/>deavours doe much lighten (though not wholy take off) their Chaines.</p>
+            <p>
+               <note place="margin">
+                  <hi>Daniel</hi> with <hi>Nebucadnezar.</hi>
+               </note>Thus whilſt <hi>that enthralled Nation</hi> was groaneing under <hi>Nebucadnezar,</hi> a wiſe <hi>Daniel</hi> is promoted, who by his intereſt in that great King, in part dryes up their teares.</p>
+            <p>When in the time of <hi>Aſſuerus</hi> the ſubtil<g ref="char:EOLhyphen"/>ty of <hi>Haman</hi> brought <hi>them</hi> neare their <hi>laſt gaspe,</hi> a fatall decree being ſent out, for their totall maſſacre, <hi>God</hi> then advances <hi>Morde<g ref="char:EOLhyphen"/>cai</hi> and <hi>Heſter,</hi> whoſe diligence recalls that haſty ſentence, and not onely ſaves the diſ<g ref="char:EOLhyphen"/>treſſed <hi>Jewes</hi> from <hi>butchery,</hi> but hangs the <hi>author</hi> of it upon that gibbet which he pre<g ref="char:EOLhyphen"/>pared for another. Thus providence inſtil<g ref="char:EOLhyphen"/>led into <hi>Cyrus (that great Prince)</hi> a very par<g ref="char:EOLhyphen"/>ticular kindneſs unto the whole Nation;<note place="margin">
+                  <hi>Cyrus</hi> alwayes heed them.</note> who openly acknowledges, The <hi>Lord God of heaven hath charged me to build him an houſe at Ieruſalem.</hi>
+               <note place="margin">Eſra 1.2.</note>
+            </p>
+            <pb n="3" facs="tcp:94397:5"/>
+            <p>Thus as that Captive people were in the time of <hi>Artaxerxes</hi> weeping by <hi>the waters of Babylon,</hi>
+               <note place="margin">
+                  <hi>Nehemiah</hi> with <hi>Artaxerxes.</hi>
+               </note> whilſt their Harps were hung up<g ref="char:EOLhyphen"/>on the melancholy willowes, and a deluge made in that river by their owne tears, <hi>God</hi> is then pleaſed to pity their heavineſs, and to give them hopes of <hi>one ſong more in Sion,</hi> by the promotion of a generous <hi>Nehemiah</hi> into great favour with that Prince, whoſe noble temper makes uſe of his intereſt for the publique advantage of his owne Na<g ref="char:EOLhyphen"/>tion.</p>
+            <p>For whilſt <hi>Nehemiah</hi> (as we find it re<g ref="char:EOLhyphen"/>corded) is upon his attendance at Court,<note place="margin">His publique ſpirit. Chapt. 1.</note> he receives <hi>ſad newes</hi> from <hi>Ieruſalem;</hi> the little ſcattered remnant there was preyed upon by inſulting enemies, the <hi>wall broken downe,</hi> and the <hi>gates burnt up.</hi> This ſtrikes deepe into the <hi>publick spirit</hi> of <hi>Nehemiah,</hi> and drownes him in mourning and tears, and the trouble of his hart became viſible in the diſorders of his countenance, whilſt he attends as a <hi>Cup-bearer,</hi> the King per<g ref="char:EOLhyphen"/>ceives that unuſuall ſadneſs, and when (up<g ref="char:EOLhyphen"/>on
+<pb n="4" facs="tcp:94397:6"/> ſtrict inquiry) he knowes the reaſon of it from himſelfe,<note place="margin">His Commiſſion to be Governour over Judea chap. 2.</note> he thinks fitt to ſend him with a <hi>Commiſſion</hi> as his <hi>Lievtenant</hi> to <hi>go<g ref="char:EOLhyphen"/>verne</hi> that people with whom he was beſt acquainted, and for whom he had ſoe ten<g ref="char:EOLhyphen"/>der a reſpect, The King onely deſires him not to ſtay long away, for he cannot be much without him, he loves his perſon and ſtands in need of his advice.</p>
+            <p>
+               <hi>Nehemiah's Commiſſion</hi> is no ſooner <hi>ſealed</hi> but he begins his Journey, and being arri<g ref="char:EOLhyphen"/>ved at <hi>Jeruſalem</hi> he vigorouſly acts in that Sphere he was placed in; and notwith<g ref="char:EOLhyphen"/>ſtanding all attempts of Enemies <hi>abroad,</hi> and the diſorders of <hi>intangled</hi> intereſts at <hi>home,</hi> he governes like <hi>himſelfe</hi> as a prudent un<g ref="char:EOLhyphen"/>byaſed <hi>Deputy,</hi> and a true Patriot of the re<g ref="char:EOLhyphen"/>all concernes of his Country: and at length having much ſettled that diſtracted Land, his <hi>Maſter</hi> cannot any longer be without his company, and therefore having finiſhed all that man could perform, he is <hi>now</hi> upon the <hi>cloſe</hi> of his <hi>Government,</hi> and in <hi>my Text</hi> we find <hi>him</hi> upon <hi>his knees</hi> in a modeſt re<g ref="char:EOLhyphen"/>flection
+<pb n="5" facs="tcp:94397:6"/> upon what he had <hi>done,</hi> and a paſ<g ref="char:EOLhyphen"/>ſionate <hi>entreaty</hi> for ſomewhat which he <hi>deſired</hi> in the words I have read unto you,<note place="margin">His Prayer upon the cloſe of his Government.</note> 
+               <hi>Remember me, O my God, concerning this, and wipe not out my good deeds that I have done for the Houſe of my God, and for the Offices thereof.</hi>
+            </p>
+            <p>Thus you may ſee my <hi>Text</hi> is the <hi>prayer of a chief Governor</hi> or <hi>Deputy</hi> under the great King <hi>Artaxerxes,</hi>
+               <note place="margin">Wherein is 1. ſomewhat men<g ref="char:EOLhyphen"/>tioned by Nehe<g ref="char:EOLhyphen"/>miah.</note> over the Land of <hi>Iudea,</hi> wherein we may find theſe parti<g ref="char:EOLhyphen"/>culars: 1. <hi>ſomewhat particularly mentioned</hi> and <hi>repreſented by Nehemiah,</hi> 2. <hi>the Petiti<g ref="char:EOLhyphen"/>ons requeſted from God.</hi>
+            </p>
+            <p n="1">1. That <hi>which is mentioned is his good Deeds, which he performed in his Govern<g ref="char:EOLhyphen"/>ment;</hi> and <hi>theſe</hi> are interweaved with <hi>all</hi> the actions of his Authority, and may be reduced unto theſe two heads. 1. <hi>Acts of Iuſtice, and love to the whole Nation in the ſettlement of their Civil Rights.</hi> 2. <hi>His ſer<g ref="char:EOLhyphen"/>vice to the Church, to the houſe of God, and to the offices thereof:</hi> the <hi>one</hi> beſpeaks his <hi>Pie<g ref="char:EOLhyphen"/>ty</hi> to <hi>God,</hi> the other his <hi>Iustice</hi> and <hi>Charity</hi>
+               <pb n="6" facs="tcp:94397:7"/> to <hi>man;</hi> the <hi>firſt</hi> contains his <hi>diligence</hi> in Settling their <hi>temporal Intereſts,</hi> and the <hi>laſt</hi> comprehends his induſtrious eſtabliſh<g ref="char:EOLhyphen"/>ment of <hi>God's worſhip and Religion.</hi>
+            </p>
+            <p>
+               <note place="margin">His good deeds to the whole Na<g ref="char:EOLhyphen"/>tion.</note>As for the <hi>first,</hi> his <hi>Acts of Kindneſſe to the whole Nation, theſe</hi> may be viewed in theſe following particulars.</p>
+            <p n="1">
+               <note place="margin">1. In accepting of the Govern<g ref="char:EOLhyphen"/>ment in a dan<g ref="char:EOLhyphen"/>gerous time.</note>1. <hi>His taking the Government upon him in troubleſome, dangerous, &amp; calamitous times;</hi> the afflictions of <hi>Ieruſalem</hi> were heavy, and the whole Nation lay in <hi>Poverty</hi> and <hi>Con<g ref="char:EOLhyphen"/>tempt,</hi> their <hi>Purſes</hi> as well as their <hi>Spirits</hi> ſo much <hi>exhauſted,</hi> as that <hi>Nehemiah</hi> could not expect to <hi>better his fortune,</hi> or <hi>improve himſelf;</hi> he knows the <hi>whole Province</hi> is in a <hi>flame,</hi> the <hi>gates</hi> of the <hi>holy City burnt,</hi> and the <hi>wall</hi> of it in the <hi>duſt;</hi> the neighbouring people teſtifie their enmity by their conti<g ref="char:EOLhyphen"/>nual Rapine and Incurſions, dead bodies (as <hi>Ioſephus</hi> tels us) ſtrewed the High ways, and the whole Nation tired, very poor and low. Though all things be thus disheart<g ref="char:EOLhyphen"/>ning and ſad, yet <hi>Nehemiah</hi> refuſes not to ſtand in the <hi>gap,</hi> very generouſly endea<g ref="char:EOLhyphen"/>vours
+<pb n="7" facs="tcp:94397:7"/> the cure of this diſtemper, and there<g ref="char:EOLhyphen"/>by proclaimes, that <hi>he</hi> prefers their <hi>com<g ref="char:EOLhyphen"/>mon good</hi> before his own <hi>private</hi> eaſe, which as it was an act of <hi>generoſity</hi> in it ſelf, ſo it was hugely <hi>acceptable</hi> to that low di<g ref="char:EOLhyphen"/>ſtracted people. <hi>Thus it is ſome ſatisfaction not utterly to be forſaken,</hi> and they call for <hi>thanks</hi> who own our difficulties by parti<g ref="char:EOLhyphen"/>cipating in them, to pull us out; they de<g ref="char:EOLhyphen"/>ſerve our <hi>acknowledgments,</hi> who venture <hi>themſelves</hi> to ſave us from ſinking. The <hi>Senate of Rome</hi> met <hi>Terentius Varro</hi> (though unſuccesful in his fight with <hi>Hannibal</hi> at <hi>Cannae</hi>) with much honour, meerly <hi>quia de Republica non deſperâſſet,</hi> he <hi>deſpaired not of a more happy day:</hi> when the Sea <hi>ſmiles,</hi> it is not much valor or toile to take up the <hi>Helm,</hi> but for a man <hi>voluntarily</hi> to engage in a <hi>Storme</hi> when he might be ſet ſafe at land, to <hi>labour</hi> at the <hi>Helm</hi> when his <hi>neigh<g ref="char:EOLhyphen"/>bour's</hi> Ship ſprings a <hi>leak,</hi> to adventure in<g ref="char:EOLhyphen"/>to the <hi>mouth</hi> of a <hi>Canon</hi> to ſave his friend, when onely his <hi>own</hi> courage not any <hi>Im<g ref="char:EOLhyphen"/>poſal</hi> call'd him <hi>thither,</hi> this ſpeaks ſome<g ref="char:EOLhyphen"/>what
+<pb n="8" facs="tcp:94397:8"/> generous and handſome. Thus good <hi>Nehemiah</hi> thinks it worthy of <hi>himſelf</hi> to take the <hi>Helm</hi> when <hi>Iudea</hi> was almoſt <hi>ſhipwrackt,</hi> whereby he gives the <hi>firſt check</hi> to thoſe Enemies who thought to ſwallow up all,<note place="margin">
+                  <hi>Chap.</hi> 2.10.</note> and who (it ſeems) were <hi>exceeding<g ref="char:EOLhyphen"/>ly trooubled</hi> that <hi>any ſhould appear to ſeek the welfare of that periſhing Nation.</hi>
+            </p>
+            <p n="2">
+               <note place="margin">2. His vigo<g ref="char:EOLhyphen"/>rous proſecution of the publick intereſt before his private Con<g ref="char:EOLhyphen"/>cerns.</note>2. <hi>Nehemiah</hi>'s ſecond <hi>Act of Iuſtice</hi> and love to his people appears, in his <hi>vigorous proſecution of the publick work, before any ad<g ref="char:EOLhyphen"/>vantage of his own private Concerns,</hi> (though <hi>theſe</hi> were <hi>many</hi> and <hi>great</hi>) but <hi>in the repairs of Ieruſalem,</hi> and in <hi>all</hi> he evidenceth all the great <hi>Qualifications of a Commander and Mi<g ref="char:EOLhyphen"/>nister of State.</hi>
+               <note place="margin">Wherein appear<g ref="char:EOLhyphen"/>ed</note>
+            </p>
+            <p>
+               <note place="margin">1. His Wiſdom.</note>As firſt <hi>his wiſdom,</hi> whereby <hi>he wrought the people to his own mind;</hi> and by <hi>prudent</hi> or<g ref="char:EOLhyphen"/>ders ſet many hands with much <hi>diſcipline</hi> to work: <hi>theſe</hi> animated by the example as well as the command of their <hi>General,</hi> chearfully did perform their ſeveral tasks,<note place="margin">Chap. 3.</note> they finiſht the <hi>Wall</hi> and the <hi>Bulwarks</hi> with<g ref="char:EOLhyphen"/>out any noiſe or confuſion.</p>
+            <p n="2">
+               <pb n="9" facs="tcp:94397:8"/>2. His <hi>watchfulneſſe and unwearied Vigi<g ref="char:EOLhyphen"/>lance,</hi>
+               <note place="margin">2. His <hi>Vigilance</hi>
+               </note> in that though ſurrounded with E<g ref="char:EOLhyphen"/>nemies of all ſorts, the <hi>Samaritans,</hi> the <hi>A<g ref="char:EOLhyphen"/>rabians,</hi> and the <hi>Amorites,</hi> who ſtrongly op<g ref="char:EOLhyphen"/>poſe that defence, yet his watchful Eye <hi>cuts off</hi> all attempts, and that 1. By <hi>gaining intel<g ref="char:EOLhyphen"/>ligence of their Cabinet Counſels,</hi> 2. By <hi>keep<g ref="char:EOLhyphen"/>ing a ſtrict VVatch</hi> and well diſciplin'd Guard, and in his own perſon he aſſiſts in the Repairs: 3. By <hi>diſcovering the falſeneſs of pretended friends;</hi> for ſome of his own party of the Nobles, being related to the Enemy by <hi>marriage</hi> and intereſt, many pri<g ref="char:EOLhyphen"/>vate <hi>Letters</hi> paſt betwixt them; theſe he di<g ref="char:EOLhyphen"/>ligently <hi>intercepts,</hi> and diſſipates their con<g ref="char:EOLhyphen"/>federacies againſt him.</p>
+            <p n="3">3.<note place="margin">3. <hi>His Courage<g ref="char:punc">▪</g> Chap.</hi> 4.3.</note> He <hi>gave upon all occaſions good teſtimo<g ref="char:EOLhyphen"/>nies of much Courage and reſolution, and that mixed with a ſweet affable pious temper;</hi> whilſt the <hi>Enemy ſcoffs</hi> he <hi>prayes,</hi> and when by rumors of invaſions and hired Prophe<g ref="char:EOLhyphen"/>cies they endeavour to <hi>terrify</hi> him, he ſcorns their <hi>fears,</hi> and very undauntedly goes on. When they find that <hi>terrors</hi> cannot prevail,
+<pb n="10" facs="tcp:94397:9"/> they <hi>change</hi> their note,<note place="margin">Chap. 6.2.</note> and ſliely invite him to a <hi>perſonal conference,</hi> to a <hi>ceſſation of Arms,</hi> the better to <hi>ſurprize</hi> him, and effect their deſigns, <hi>let us meet, ſaid</hi> Sanballat, <hi>in ſome one of the villages of the plains,</hi> but <hi>he</hi> deſires to be excuſed; <hi>they thought</hi> (ſaid the good <hi>Nehemiah) to do me a miſchief:</hi> thus no pre<g ref="char:EOLhyphen"/>tence could hinder his reſolution, his pub<g ref="char:EOLhyphen"/>lick management of Affairs.</p>
+            <p n="3">
+               <note place="margin">His Acts of kindneſſe appears in ſeveral other particulars:</note>3. <hi>Nehemiah</hi>'s acts of <hi>Iuſtice and Love</hi> to the <hi>whole Nation</hi> appears in his ſweet affa<g ref="char:EOLhyphen"/>ble tendernes in all the leſſer Concerns of that afflicted people: as 1. in <hi>diſpatch of Pe<g ref="char:EOLhyphen"/>titioners,</hi>
+               <note place="margin">as In caſing the poor, and Diſpatching of Petitions.</note> 2. <hi>in eaſing the poor</hi> from thoſe <hi>preſſures which lay too hard</hi> upon them. In unſettled calamitous times the <hi>meaneſt</hi> uſu<g ref="char:EOLhyphen"/>ally ſuffer moſt, the <hi>great fiſh</hi> commonly <hi>breaks through</hi> whilſt the <hi>leſser</hi> are <hi>ſwallowed</hi> up; this good <hi>Nehemiah</hi> endeavours to re<g ref="char:EOLhyphen"/>medy by abating their <hi>uſury</hi> and exactions, by <hi>ſweetning</hi> the <hi>Maſters</hi> towards their <hi>ſer<g ref="char:EOLhyphen"/>vants,</hi> and in openly rebuking the <hi>great</hi> men he brought matters to a more tolerable moderation.</p>
+            <pb n="11" facs="tcp:94397:9"/>
+            <p>Whereas <hi>Nehemiah</hi> might have expect<g ref="char:EOLhyphen"/>ed a general <hi>aſsistance</hi> in defraying thoſe <hi>publick</hi> expences, and ſo might have been <hi>chargeable to the people as ſome Governours before him were,</hi> he deſires from them no ſuch Contribution,<note place="margin">His Charity and open Hoſpitality.</note>he hath a <hi>large revenue</hi> of his <hi>own,</hi> and he makes a noble <hi>uſe</hi> of it, he <hi>maintains</hi> his family much upon his <hi>own</hi> charge, and in caſe he had an <hi>allowance</hi> from his <hi>Maſter,</hi> that will not ſerve, he ſpares not his own Eſtate, and <hi>keeps an open free Table,</hi> and he himſelf aſſures us,<note place="margin">Chap. 5.17.</note> 
+               <hi>That an hundred and fifty Iews were at my Table, be<g ref="char:EOLhyphen"/>ſides thoſe that came unto us from among the Heathen that were about us.</hi> The Rulers of the Prieſts and of the people were with<g ref="char:EOLhyphen"/>in, and the poor diſtreſſed, who were <hi>stript</hi> and forced into the <hi>City</hi> by the cruelty of enemies abroad, <hi>theſe all</hi> find a <hi>kind re<g ref="char:EOLhyphen"/>ception</hi> and comfortable <hi>relief</hi> from <hi>him.</hi>
+            </p>
+            <p>Thus you ſee the <hi>firſt</hi> of <hi>Nehemiah's good deeds his Acts of Iuſtice, and love to the whole Nation,</hi> manifeſted 1. In <hi>his taking upon him the government in an hazardous time.</hi> 2. In
+<pb n="12" facs="tcp:94397:10"/> 
+               <hi>a generous and vigorous proſecution of the pub<g ref="char:EOLhyphen"/>lick good before his own private concernes:</hi> wherein he evidenceth</p>
+            <p n="1">1. <hi>Wiſdom and Prudence.</hi> 2. <hi>Vigilance and Care.</hi> 3. <hi>Courage and Reſolution,</hi> beſides his many other Acts of mercy and kindeſs in <hi>ſpeedy eaſing the people,</hi> in <hi>moderating</hi> Ta<g ref="char:EOLhyphen"/>xes, <hi>relieving the Poor,</hi> in <hi>keeping an open Hoſpitality,</hi> and <hi>ſpending his own fair Reve<g ref="char:EOLhyphen"/>nue.</hi>
+            </p>
+            <p>
+               <label>Three inferences.</label> And from all this I may infer theſe fol<g ref="char:EOLhyphen"/>lowing Obſervations.</p>
+            <p n="1">1. <hi>That a people once owned by God may be driven to great exigencies by want and diſ<g ref="char:EOLhyphen"/>order at home by the confederacies and violence of enemies abroad.</hi>
+            </p>
+            <p n="2">2. <hi>That a Nation thus in ſtraights cannot be blest with a greater viſible mercy, than with a Governour of a noble true generous Spirit.</hi> Twas <hi>Iſrael</hi>'s happineſſe to have ſuch as <hi>Moſes</hi> to deliver them from the ſlavery of <hi>Egypt,</hi> and ſuch as <hi>Ioſhua</hi> to conduct them in the hardſhips of the <hi>wildernes,</hi> and ſuch as <hi>David</hi> to feed them in a <hi>green paſture,</hi>
+               <pb n="13" facs="tcp:94397:10"/> and ſuch as <hi>Nehemiah</hi> to build up a ruinous <hi>Ieruſalem,</hi> to ſettle that broken Nation, and therefore</p>
+            <p n="3">3. <hi>It is certain that as an excellent Magi<g ref="char:EOLhyphen"/>ſtrate is a great bleſſing, ſo the not being ſenſi<g ref="char:EOLhyphen"/>ble of that mercy, is a great ſin.</hi> The <hi>grumbl<g ref="char:EOLhyphen"/>ing</hi> at <hi>David,</hi> and <hi>repining</hi> againſt <hi>Moſes,</hi> and <hi>complaining</hi> againſt <hi>Joſhua,</hi> a not being con<g ref="char:EOLhyphen"/>tent with <hi>Manna,</hi> and the ſpeaking <hi>ill</hi> of thoſe who ſpend themſelves for us, is a <hi>ſin</hi> of a <hi>deep dye,</hi> and doth not uſually go un<g ref="char:EOLhyphen"/>puniſhed.</p>
+            <p>I have now done with the <hi>firſt part of Nebemiah</hi>'s <hi>good deeds,</hi>
+               <note place="margin">The ſecond part of Nehemiahs good deeds for the Church.</note> his <hi>Acts of justice and kindneſſe</hi> to the <hi>whole Nation,</hi> in the <hi>ſettle<g ref="char:EOLhyphen"/>ment</hi> of their <hi>civil Rights.</hi> I come now to the <hi>ſecond,</hi> his <hi>ſervices to the Church,</hi> and the Offices thereof. He confines not him<g ref="char:EOLhyphen"/>ſelf to Acts of <hi>Civility</hi> and Tenderneſſe to the people, he knows that ſomething is to be <hi>done for God</hi> as well as <hi>Man,</hi> and that whatever is performed for his <hi>ſervice</hi> is the readieſt way to advance their <hi>reputation a<g ref="char:EOLhyphen"/>broad,</hi> as well as their proſperity and <hi>peace
+<pb n="14" facs="tcp:94397:11"/> at home.</hi> He thinks himſelf obliged to pro<g ref="char:EOLhyphen"/>vide for the <hi>welfare</hi> of their <hi>Souls</hi> as well as of their <hi>Eſtates,</hi> and therefore this prudent <hi>Deputy</hi> carefully ſets himſelf to the <hi>reesta<g ref="char:EOLhyphen"/>bliſhment of that Religion</hi> which was ba<g ref="char:EOLhyphen"/>niſht long from <hi>Ieruſalem,</hi> and to <hi>diſcounte<g ref="char:EOLhyphen"/>nance</hi> and weed out thoſe <hi>tares</hi> and <hi>corrup<g ref="char:EOLhyphen"/>tions</hi> which <hi>liberty</hi> and confuſions had brought in. <hi>This</hi> he performs with <hi>zeal,</hi> and particularly <hi>mentions</hi> in my Text, <hi>the good deeds that I have done for the houſe of my God, and for the offices thereof.</hi>
+            </p>
+            <p>Theſe I ſhall reduce to the following par<g ref="char:EOLhyphen"/>ticulars.</p>
+            <p n="1">
+               <note place="margin">1. In clenſing the Temple. Chap. 13. v. 8.</note>1. <hi>He took care for the cleanſing and adorn<g ref="char:EOLhyphen"/>ing God's houſe, and for the unmingled purity of its Offices.</hi> In his abſence from <hi>Jeruſalem</hi> (being ſeveral times ſent for to the King) <hi>Tobiah</hi> had intruded into the <hi>Courts</hi> of the <hi>Temple,</hi> and placed his <hi>own houſhold-ſtuff</hi> in thoſe <hi>chambers</hi> which were appropriated to a more <hi>holy uſe</hi> for the veſſels of the Lord; this <hi>good Nehemiah</hi> is much diſpleaſed at, and upon his return tels us, <hi>it grieved me
+<pb n="15" facs="tcp:94397:11"/> ſore, therefore I caſt forth all the houſhold-ſtuff of Tobiah out of the chamber, and thither brought again the veſsels of the houſe of the Lord, with the meat-offerings and Frankin<g ref="char:EOLhyphen"/>cenſe.</hi>
+            </p>
+            <p n="2">2.<note place="margin">2. In depoſing intruders into the Prieſthood. Chap. 7.64.</note> 
+               <hi>Intruders into the Priesthood are depoſ<g ref="char:EOLhyphen"/>ed,</hi> and made uncapable of that ſervice; they who could not <hi>make out</hi> their <hi>legal</hi> qualification and deſcent, were, as pol<g ref="char:EOLhyphen"/>luted, put from the Prieſthood.</p>
+            <p n="3">3.<note place="margin">3. In incourag<g ref="char:EOLhyphen"/>ing the Rulers &amp; Priests in expoſition of the Law.</note> 
+               <hi>Nehemiah</hi> (being happy in careful prudent Governours of the Church, he with their help) <hi>ſets up a diligent preaching and expoſition of the Law.</hi>
+               <note place="margin">Chap. 8.</note> Painful <hi>Ezra</hi> with his brethren are not idle, they counſel and <hi>inſtruct</hi> the people, and convince them of their Errors, in a Language they under<g ref="char:EOLhyphen"/>ſtood; <hi>he</hi> reads and <hi>they</hi> are attentive, <hi>he</hi> expounds the difficulties and <hi>they</hi> modeſt<g ref="char:EOLhyphen"/>ly receive his expoſition, <hi>he</hi> makes a con<g ref="char:EOLhyphen"/>veniency for audience a Pulpit of Wood, and <hi>they</hi> hang upon the Prieſts lips <hi>which are to preſerve knowledg.</hi> The people do not pretend to be <hi>teachers</hi> themſelves, or that
+<pb n="16" facs="tcp:94397:12"/> they <hi>know enough</hi> already, but they are mo<g ref="char:EOLhyphen"/>deſtly <hi>attentive,</hi> and promiſe all <hi>obedience to what they hear.</hi>
+            </p>
+            <p n="4">
+               <note place="margin">4. In preſcri<g ref="char:EOLhyphen"/>bing a Confor<g ref="char:EOLhyphen"/>mity in the matter and man<g ref="char:EOLhyphen"/>ner of their wor<g ref="char:EOLhyphen"/>ſhip.</note>4. To keep off Confuſion and new fancies he <hi>obliges them to a Conformity in their worſhip of God;</hi> as to the <hi>matter,</hi> he pre<g ref="char:EOLhyphen"/>ſcribes all the <hi>Commands of Moſes</hi> without <hi>partiality</hi> to be punctually obeyed by <hi>all;</hi> as to the <hi>manner,</hi>
+               <note place="margin">Chap. 8.6.</note> they hearken to it <hi>unanimouſ<g ref="char:EOLhyphen"/>ly,</hi> in <hi>one general poſture, reverently</hi> and <hi>de<g ref="char:EOLhyphen"/>cently, he opens the Book</hi> and <hi>they ſtand up,</hi> he <hi>praiſes God</hi> and <hi>they openly proclaim Amen, Amen;</hi> they <hi>lift up their hands</hi> in ſign of their <hi>conſent,</hi> they <hi>bow their heads</hi> and worſhip the Lord with their faces to the ground in token of their <hi>humility.</hi>
+            </p>
+            <p n="5">
+               <note place="margin">5. In proclaim<g ref="char:EOLhyphen"/>ing a Faſt. Chap. 9.</note>5. To <hi>work the people to a true Senſe of their former miſcarriages,</hi> and God's <hi>unex<g ref="char:EOLhyphen"/>pected mercies,</hi> he <hi>proclaims a ſolemn Faſt,</hi> and <hi>enjoins an open confeſsion of ſin.</hi>
+            </p>
+            <p n="6">
+               <note place="margin">6. In ſanctifying the Sabbath.</note>6. <hi>He rectifies the abuſe of the Sabbath,</hi> and repreſſes the prophaneſſe of thoſe who made <hi>no diſtinction</hi> of dayes.</p>
+            <p n="7">7. Whereas the <hi>Dues of the Prieſts</hi> were
+<pb n="17" facs="tcp:94397:12"/> 
+               <hi>wreſted</hi> from them, and the <hi>Revenues</hi> of the Church ſwallowed up by the great inva<g ref="char:EOLhyphen"/>ders of its Patrimony,<note place="margin">7. In reſtoring their Patrimony to the Church. Chap. 13.10.</note> we find <hi>pious Nehe<g ref="char:EOLhyphen"/>miah vigorouſly</hi> acting in the <hi>reſtoration</hi> of them; he liberally contributes towards their maintenance himſelf, and builds <hi>hou<g ref="char:EOLhyphen"/>ſes</hi> for the Prophets, and contends with thoſe Nobles who thought it no robbery to keep what they can, he compels them to be juſt, and to pay their Tithes, and takes care that <hi>they ſhall not depend upon the Arbi<g ref="char:EOLhyphen"/>trary benevolence of the people.</hi>
+            </p>
+            <p>Theſe were ſome of the many good deeds of this <hi>noble Lieutenant</hi> in his ſervice both to the <hi>Nation</hi> and the <hi>Church;</hi> in whom an excellent <hi>Magiſtrate</hi> may find a <hi>pattern</hi> for himſelf. And truly <hi>Nehemiah</hi>'s good deeds were of ſo noble and diffuſive an influence, as that ſome of the Antients have thought him a type of our bleſſed Sa<g ref="char:EOLhyphen"/>viour Chriſt,<note place="margin">Nehemiah whe<g ref="char:EOLhyphen"/>ther a type of Chriſt?</note> which though <hi>uncertain</hi> whe<g ref="char:EOLhyphen"/>ther intended by God's ſpirit, yet it is moſt infallibly true, that our Saviour did <hi>ſpiri<g ref="char:EOLhyphen"/>tually</hi> and ſubſtantially perform that, which
+<pb n="18" facs="tcp:94397:13"/> this <hi>Governour</hi> did <hi>outwardly</hi> effect: He like <hi>Nehemiah</hi> came to his <hi>own</hi> in a time of <hi>ex<g ref="char:EOLhyphen"/>tremity</hi> and <hi>need,</hi> to <hi>comfort</hi> the <hi>broken-hearted,</hi> and to raiſe up the <hi>ruins</hi> of decay<g ref="char:EOLhyphen"/>ed <hi>mankind.</hi> Chriſt built up the walls of <hi>new Ieruſalem</hi> (his Church,) and hath ap<g ref="char:EOLhyphen"/>pointed <hi>Pastors</hi> and <hi>Governours</hi> to feed his flock, and his Goſpel to ſever the Wheat from the leſſe uſeful Chaff. <hi>He,</hi> like this <hi>good man,</hi> pull'd off the <hi>chains</hi> of the <hi>miſera<g ref="char:EOLhyphen"/>ble,</hi> and proclaim'd liberty to the <hi>Captives</hi> laden with <hi>debt.</hi> Thus <hi>Christ</hi> did that <hi>spi<g ref="char:EOLhyphen"/>ritually,</hi> which <hi>Nehemiah</hi> did <hi>outwardly,</hi> and thoſe virtues which were ſo bright in him, were ſuch as Chriſt both requires and re<g ref="char:EOLhyphen"/>wards in Magiſtrates,<note place="margin">Lib. Antiq. 11. c. 5.</note> and <hi>Joſephus</hi> his cha<g ref="char:EOLhyphen"/>racter of him is not yet dead, he was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp;c. <hi>A juſt perſon of a moſt excellent dispoſition, a great paſſionate lover of his Countrey.</hi>
+            </p>
+            <p>
+               <note place="margin">5 Inferences.</note>From all theſe put together I gain theſe following particulars.</p>
+            <p n="1">
+               <note place="margin">1. Chief magi<g ref="char:EOLhyphen"/>ſtrates may in<g ref="char:EOLhyphen"/>terpoſe in mat<g ref="char:EOLhyphen"/>ters of Religion.</note>1. <hi>That the chief Governour hath power to rectifie the abuſe of God's ſervice, according to
+<pb n="19" facs="tcp:94397:13"/> the eſtabliſht Laws of God</hi> and his <hi>Church: he</hi> may lawfully do what <hi>Nehemiah</hi> did; it is no <hi>encroachment</hi> upon Chriſtian <hi>liberty</hi> to determine the <hi>uſe</hi> of things <hi>indifferent,</hi> nor is it prejudicial to the Commands of Chriſt to obey the conſtitutions of Authority.</p>
+            <p n="2">2.<note place="margin">2. But not u<g ref="char:EOLhyphen"/>ſurp the office of Prieſts.</note> Though the <hi>chief Magiſtrate may o<g ref="char:EOLhyphen"/>verſee the Priests,</hi> and cauſe them to <hi>execute their duties,</hi> yet they have no power to <hi>uſurp their offices. His</hi> being a <hi>Magistrate</hi> did not priviledge him to exerciſe the <hi>Prieſt<g ref="char:EOLhyphen"/>hood;</hi> that Calling is <hi>ſacred,</hi> and requires a due <hi>Miſsion</hi> as well as <hi>Abilities.</hi> If <hi>Corah</hi> offer to take up the <hi>Cenſer,</hi> the <hi>Earth</hi> may <hi>open</hi> and ſwallow him up. If <hi>Vzziah</hi> (though a King) intrudes into the Prieſts office, <hi>God</hi> will meet <hi>him</hi> in the way, and as he ſtretches out his hands with a <hi>Cenſer,</hi> a <hi>Leproſie</hi> breaks out on his Forehead; and he who would needs offer <hi>incenſe to God,</hi> becomes <hi>loathſome</hi> to himſelf; and he who was not ſatisfied to come in as a <hi>King,</hi> is ſhut out as a <hi>Leper</hi> from approaching the Sanctuary.</p>
+            <p n="3">3. That the <hi>information of Iudgment is the
+<pb n="20" facs="tcp:94397:14"/> moſt natural means of rectifying the diſorders of our affections.</hi>
+               <note place="margin">Information of Judgment a good means of gaining affecti<g ref="char:EOLhyphen"/>ons.</note> The preaching of the word, and the inſtructing of the people, is the <hi>beſt way</hi> to make them ſenſible of their <hi>ſins.</hi>
+            </p>
+            <p n="4">
+               <note place="margin">Confeſſion of ſin to attend upon our knowledg of it.</note>4. That a <hi>due confeſſion and acknowledg<g ref="char:EOLhyphen"/>ment of our guilt muſt attend upon the ſence and knowledg of our ſins:</hi> a ſolemn <hi>Faſt</hi> is pro<g ref="char:EOLhyphen"/>claimed after reading the Law.</p>
+            <p n="5">
+               <note place="margin">To oppoſe ſacri<g ref="char:EOLhyphen"/>ledg an argu<g ref="char:EOLhyphen"/>ment of a pious ſoul.</note>5. That a <hi>reſtoring unto God the things that are God's,</hi> and the <hi>oppoſing of Sacriledge</hi> is uſually an <hi>act of a pious and generous ſoul.</hi> This overcomes very high temptations, which many ſink under: <hi>Nehemiah</hi> will ſtand in the gap and hazard a contention with any, and rebuke the <hi>Nobles,</hi> rather than connive at the <hi>robbing of God.</hi> He will <hi>honour</hi> the perſons, and keep ſacred the <hi>poſſeſsions</hi> dedicated to his <hi>ſervice,</hi> and not ſuffer the <hi>Prieſthood</hi> to be expoſed to the ar<g ref="char:EOLhyphen"/>bitrary benevolence of the people.</p>
+            <p>
+               <note place="margin">Laſt part of Ne<g ref="char:EOLhyphen"/>hemiahs request, of what to be re<g ref="char:EOLhyphen"/>membred.</note>Thus I have done with the <hi>firſt part</hi> of my Text, that <hi>Nehemiah</hi> mentioned and repreſented his good deeds for the Nation and for the Church, I come now to the
+<pb n="21" facs="tcp:94397:14"/> 
+               <hi>laſt part,</hi> to that which he <hi>requeſts of God,</hi> and that is a Remembrance of theſe, <hi>Re<g ref="char:EOLhyphen"/>member me O my God, and wipe not out</hi> &amp;c.</p>
+            <p>In two phraſes he deſires the <hi>ſame</hi> thing, 1. a <hi>Remembrance,</hi> 2. a <hi>not wiping out</hi> his good deeds.</p>
+            <p>The firſt is <hi>poſitive,</hi> the ſecond <hi>negative,</hi>
+               <note place="margin">A twofold Re<g ref="char:EOLhyphen"/>membrance.</note> 
+               <hi>both</hi> to the <hi>ſame</hi> purpoſe, <hi>both</hi> mutually ex<g ref="char:EOLhyphen"/>plain each other: there is a <hi>remembrance Theoretical,</hi> and there is a <hi>remembrance Pra<g ref="char:EOLhyphen"/>ctical;</hi> the firſt is <hi>immanent,</hi> the ſecond <hi>tran<g ref="char:EOLhyphen"/>ſient, that</hi> in <hi>affectu, this</hi> in <hi>effectu;</hi> and ſince <hi>Nehemiah</hi> enforces this requeſt by a <hi>not wiping out,</hi> we may conclude that his <hi>pray<g ref="char:EOLhyphen"/>er</hi> to God is, that he <hi>may be effectually re<g ref="char:EOLhyphen"/>membred.</hi>
+            </p>
+            <p>Here two things offer themſelves, 1. <hi>by whom he would be remembred,</hi> 2. <hi>how he would have this Remembrance expreſſed?</hi>
+            </p>
+            <p n="1">1. The <hi>Remembrancer</hi> deſired is <hi>God,</hi>
+               <note place="margin">The Remem<g ref="char:EOLhyphen"/>brancer deſired God.</note> 
+               <hi>Remember me O my God.</hi>
+            </p>
+            <p>Though <hi>Nehemiah</hi>'s Acts of kindneſſe to the people be <hi>great,</hi> and his ſweet behavi<g ref="char:EOLhyphen"/>our
+<pb n="22" facs="tcp:94397:15"/> and care had extremely <hi>obliged all,</hi> yet he makes not his addreſſe to <hi>them,</hi> he minds not <hi>Ieruſalem</hi> of her <hi>rebuilded wall,</hi> nor the Rulers of their <hi>vindicated honors,</hi> nor the <hi>Prieſts</hi> of their <hi>reſtored function</hi> (proſtituted before to the baſeſt of the people,) he minds not the <hi>whole Nation</hi> of its ſettlement and peace, as far as their <hi>intangled</hi> intereſts would permit, he turns not to <hi>any of theſe</hi> but to his <hi>God, Remember me O my God.</hi>
+            </p>
+            <p>
+               <note place="margin">Moſt eminently, eſpecially before Man.</note>He turns to his God 1. moſt <hi>eſpecially</hi> and <hi>eminently</hi> before <hi>man,</hi> 2. <hi>excluſively,</hi> he ut<g ref="char:EOLhyphen"/>terly <hi>excludes</hi> and <hi>rejects</hi> the remembrance of <hi>man.</hi>
+               <note place="margin">Philip. 2.</note>
+            </p>
+            <p n="1">1. He turns moſt <hi>especially</hi> to his God, becauſe his <hi>good deeds</hi> were performed in <hi>obedience</hi> to him.</p>
+            <p n="2">2. Becauſe <hi>they</hi> were effected by <hi>God's grace</hi> and peculiar ſtrength, who worketh in all men to will and to doe; and who a<g ref="char:EOLhyphen"/>ctuates <hi>Princes and Magiſtrates</hi> with Spirits ſuitable to their Stations.</p>
+            <p n="3">3. Becauſe <hi>God's glory was the great aime
+<pb n="23" facs="tcp:94397:15"/> of what he did: this</hi> the Gentiles ſcoff at, and from the ruins of the <hi>City</hi> and the neglect<g ref="char:EOLhyphen"/>ed defilements of the <hi>Temple,</hi> took occaſion to contemn the <hi>God of Iſrael,</hi> who once owned himſelf their <hi>Protector</hi> and their <hi>mighty deliverer.</hi>
+            </p>
+            <p n="4">4. Becauſe <hi>God is pleaſed to accept of acts of Charity and love to man as done to himſelf,</hi> and therefore for theſe and <hi>many more</hi> rea<g ref="char:EOLhyphen"/>ſons he moſt <hi>especially</hi> hath recourſe in the <hi>firſt</hi> place to <hi>God, Remember me O my God.</hi>
+            </p>
+            <p n="2">2. He turns to <hi>God excluſively.</hi> Man's <hi>remembrance</hi> is not at all <hi>deſired,</hi> he is ſilent of <hi>that,</hi> and onely begs <hi>this,</hi> becauſe</p>
+            <p n="1">1. <hi>God</hi> was not at all obliged to him, nor his <hi>Debtor</hi> for his <hi>good deeds,</hi> but man <hi>was,</hi> and therefore were men Candid and inge<g ref="char:EOLhyphen"/>nuous, and but tolerably Juſt, <hi>Nehemiah</hi> might have very well <hi>expected</hi> that they would not eaſily <hi>forget</hi> him; or if they <hi>did,</hi> he knew it would be their <hi>own fault,</hi> not <hi>his,</hi> and conſequently the <hi>ill</hi> would be <hi>theirs</hi>
+               <pb n="24" facs="tcp:94397:16"/> too for being ſo <hi>ungrateful;</hi> and therefore this <hi>noble Governour</hi> is <hi>above</hi> their flattery, and <hi>hunts</hi> not after their <hi>praiſe,</hi> he ſeeks no monument in their <hi>remembrance,</hi> he mind<g ref="char:EOLhyphen"/>ed not <hi>himſelf</hi> in doing them good, nor doth he court their <hi>applauſe</hi> for what he did perform.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">reaſon. </seg>Second</label> 2. It is rationally probable that <hi>Nehe<g ref="char:EOLhyphen"/>miah</hi> omits any deſire of being <hi>remembred by man,</hi> out of a real <hi>diſtrust</hi> of ever having it <hi>duely paid;</hi> for if <hi>God</hi> be <hi>forgotten, man</hi> can<g ref="char:EOLhyphen"/>not very well expect to be <hi>remembred,</hi> and they who are too uſually <hi>unmindful</hi> of the <hi>daily mercies of God,</hi> will quickly be <hi>ſtrang<g ref="char:EOLhyphen"/>ers</hi> to the <hi>kindnes</hi> of <hi>man.</hi> Experience tels us, that a little trouble or hardſhip of a few hours, blots out the memory of mercies poured down the whole life before by God. If <hi>Iſrael</hi> want a little water, they will forget the wonders of <hi>Egypt;</hi> a little bad news, or a wanton deſire of <hi>fleſh,</hi> or a few dayes abſence of <hi>Moſes,</hi> makes them all <hi>dance after a Calf.</hi> Well therefore may
+<pb n="25" facs="tcp:94397:16"/> the <hi>Magiſtrate</hi> diſtruſt a <hi>remembrance of man,</hi> ſince man thus eaſily forgets his <hi>God.</hi> Ma<g ref="char:EOLhyphen"/>giſtrates, who move in an <hi>open Sphere,</hi> (though never ſo <hi>ſweet</hi> and pleaſing in their influence, yet) accidentally may attract ſome <hi>unquiet exhalations,</hi> and if they diſ<g ref="char:EOLhyphen"/>pleaſe but <hi>once,</hi> that <hi>one</hi> ungrateful Action is the <hi>onely thing remembred.</hi> And there<g ref="char:EOLhyphen"/>fore as every pious prudent Chriſtian ſe<g ref="char:EOLhyphen"/>cures to himſelf a more <hi>faithful</hi> repoſitory for his <hi>treaſure</hi> in <hi>Heaven,</hi> becauſe he finds the <hi>moth</hi> and the ruſt breaks through all on <hi>earth,</hi> ſo good <hi>Nehemiah,</hi> becauſe he finds men groſly <hi>ignorant,</hi> cauſleſly <hi>querulous, unconſtant</hi> in their <hi>affections,</hi> and <hi>ungrateful</hi> for <hi>kindneſſe</hi> and favours received, there<g ref="char:EOLhyphen"/>fore he thinks not fit to <hi>rely</hi> upon their <hi>me<g ref="char:EOLhyphen"/>mories,</hi> nor <hi>court</hi> their <hi>applauſes,</hi> but looks onely upon his <hi>God,</hi> who <hi>faithfully records all,</hi> whoſe <hi>gifts</hi> and promotions <hi>are with<g ref="char:EOLhyphen"/>out repentance,</hi> in whom <hi>there is no variable<g ref="char:EOLhyphen"/>neſſe or ſhadow of Change.</hi>
+            </p>
+            <p>But ſome may <hi>question,</hi> whether this
+<pb n="26" facs="tcp:94397:17"/> may not be an Act of <hi>Preſumption</hi> for any man,<note place="margin">Whether it be a<g ref="char:EOLhyphen"/>ny preſumption in Nehemiah to be remembred by God?</note> who at <hi>beſt</hi> is <hi>bad,</hi> to preſent his <hi>good deeds</hi> to God for a <hi>remembrance</hi> for <hi>him,</hi> in whoſe Eyes the Seraphims them<g ref="char:EOLhyphen"/>ſelves are <hi>impure.</hi> But it is certain</p>
+            <p n="1">1. That <hi>Nehemiah</hi> did no more than what many good men before him did. Thus <hi>Obadiah</hi> mentions his good pious ſervice in hiding the Prophets in a Cave &amp;c.</p>
+            <p n="2">
+               <note place="margin">How far a man may reflect on his own good deeds?</note>2. <hi>He did no more than what lawfully may be done.</hi> For ſeeing that <hi>deeds</hi> truly <hi>good</hi> are done in Obedience to God, in <hi>faith</hi> and to his <hi>glory,</hi> they flow <hi>à Deo in Deum,</hi> and therefore cannot but cheer up the Soul, and breath into it thoſe Comforts which attend upon a good Conſcience, and add Confidence to our Addreſſes unto <hi>God.</hi> This St. <hi>Paul</hi> triumphs in,<note place="margin">2 Cor. 1.12.</note> and when <hi>man</hi> is <hi>ſilent, God</hi> is oft pleaſed to ſhew publick<g ref="char:EOLhyphen"/>ly his remembrance of <hi>good Actions,</hi> done in obedience to him. If <hi>Abraham</hi> put a knife to his ſons Throat when commanded,
+<pb n="27" facs="tcp:94397:17"/> 
+               <hi>God</hi> openly remembers it, and promiſes a reward. If the people murmur againſt <hi>Moſes,</hi> God himſelf will vindicate him, <hi>he is faithful in all my houſe;</hi> he owns <hi>David</hi> to be a <hi>man after his own heart,</hi> and proclaims <hi>Iob</hi> to be a <hi>perfect and an upright man;</hi> and he tels the Church of <hi>Thyatira, I know thy works, and charity, and ſervice, and faith, and patience:</hi> and therefore we may ſafely con<g ref="char:EOLhyphen"/>clude, that this <hi>kind of repreſentment of good deeds</hi> to God, infers neither <hi>preſumptio<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> in the Agent, nor <hi>merit</hi> unto Iuſtification; for a <hi>deed</hi> may be <hi>good</hi> in its <hi>kind,</hi> yet not <hi>meritori<g ref="char:EOLhyphen"/>ous,</hi> and a <hi>good man</hi> may <hi>rejoice</hi> in the teſti<g ref="char:EOLhyphen"/>mony of a <hi>good Conſcience</hi> without <hi>arrogance</hi> or <hi>boasting.</hi>
+            </p>
+            <p>To <hi>Nehemiah</hi> therefore, and <hi>ſuch as he is,</hi> it may be ſaid, Thou haſt been <hi>faithful</hi> to <hi>God</hi> and thy own <hi>Maſter;</hi> no <hi>hazards</hi> could <hi>ſtagger</hi> thy <hi>principles,</hi> nor the <hi>potency</hi> of <hi>ſe<g ref="char:EOLhyphen"/>veral factions leſsen</hi> thy care of God's ſervice and honour; the <hi>whole Nation</hi> hath for ma<g ref="char:EOLhyphen"/>ny years taſted of the <hi>Sweets of thy Govern<g ref="char:EOLhyphen"/>ment,</hi>
+               <pb n="28" facs="tcp:94397:18"/> and the <hi>Revenue</hi> and <hi>Perſons</hi> of <hi>Priests</hi> ſhrouded under thy <hi>protection,</hi> and therefore however <hi>men</hi> may be affected, yet it is thy comfort that thou haſt an <hi>infal<g ref="char:EOLhyphen"/>lible Record</hi> in <hi>heaven,</hi> who ſees in ſecret and openly rewardeth, to him thou mayſt free<g ref="char:EOLhyphen"/>ly call <hi>Remember me</hi> &amp;c.</p>
+            <p>
+               <note place="margin">Nehemiah clears him from pre<g ref="char:EOLhyphen"/>ſumption by be<g ref="char:EOLhyphen"/>ing to be ſpared. <hi>Spare me</hi> &amp;c.</note>And to all this let me adde <hi>two words</hi> more, which <hi>Nehemiah</hi> makes uſe of whol<g ref="char:EOLhyphen"/>ly to <hi>clear</hi> his words from <hi>preſumption:</hi> thus v. 22. <hi>Remember me and ſpare me according to the greatneſse of thy mercy.</hi> God's <hi>sparing</hi> is an act of Providence; it is the not infli<g ref="char:EOLhyphen"/>cting of that evil on a perſon, which <hi>God</hi> might in <hi>juſtice</hi> or <hi>power</hi> ſend down, it is ſometimes expreſt by <hi>not imputing,</hi> by <hi>cove<g ref="char:EOLhyphen"/>ring ſin</hi> and <hi>pardoning offences,</hi> and therefore done according to <hi>multitude of mercies.</hi>
+            </p>
+            <p>And truly the <hi>deformity</hi> of Sin is ſo <hi>mon<g ref="char:EOLhyphen"/>ſtrous,</hi> and the <hi>Curſes</hi> wich attend upon it ſo <hi>hideous</hi> and <hi>many,</hi> as that to <hi>spare</hi> when puniſhment is deſerved, to <hi>forget</hi> the <hi>ſin</hi> and <hi>remember</hi> the <hi>ſinner,</hi> is not a <hi>ſingle</hi> kindneſs but a <hi>multitude</hi> of <hi>mercy.</hi>
+            </p>
+            <pb n="29" facs="tcp:94397:18"/>
+            <p>Thus you ſee <hi>Nehemiah</hi>'s <hi>requeſt, Spare me O my God,</hi> is not the Language of <hi>pride,</hi> nor the <hi>pleadings</hi> of <hi>merit;</hi> tis no <hi>Phariſaical</hi> liſp, but the <hi>groan</hi> of a <hi>Penitent, God be mer<g ref="char:EOLhyphen"/>ciful to me a ſinner.</hi>
+            </p>
+            <p>And truely we may find that <hi>Nehemiah,</hi>
+               <note place="margin">Good reaſon for it.</note> though never ſo <hi>godly,</hi> hath good reaſon to beg for a <hi>Spare me,</hi> for though his <hi>good deeds</hi> as ſuch do not <hi>deſerve a reward,</hi> yet they are not <hi>as ſuch</hi> ſubjects of <hi>puniſhment;</hi> however he hath reaſon to cry <hi>Spare me.</hi> For</p>
+            <p n="1">1.<note place="margin">Becauſe he may ſmart for the peoples ſins.</note> There is an <hi>union</hi> and conſociation betwixt the <hi>Magistrate</hi> and <hi>People;</hi> and we oft find that the <hi>one</hi> is puniſht for the <hi>miſde<g ref="char:EOLhyphen"/>meanours</hi> of the <hi>other.</hi>
+            </p>
+            <p>Thus ſome thouſands of <hi>David</hi>'s Sub<g ref="char:EOLhyphen"/>jects ſmart for his ſin of <hi>numbring the people,</hi> and an excellent <hi>Joſiah</hi> removed for the <hi>ſin</hi> of <hi>Judah:</hi> God was angry with <hi>Moſes</hi> for the <hi>peoples ſake,</hi> and let <hi>Nehemiah</hi> be as juſt and as <hi>innocent</hi> as he can, yet he may <hi>ſuffer</hi> for the peoples <hi>corruption,</hi> and there<g ref="char:EOLhyphen"/>fore in prevention of this he may cry <hi>Spare me O my God.</hi>
+            </p>
+            <p n="2">
+               <pb n="30" facs="tcp:94397:19"/>2. It is certain, that the <hi>beſt of his deeds had their mixture of imperfection,</hi> and there<g ref="char:EOLhyphen"/>fore being conſcious to his own failings he begs for <hi>pardon</hi> and <hi>acceptance. Magi<g ref="char:EOLhyphen"/>ſtrates</hi> are but <hi>men,</hi> and not utterly privi<g ref="char:EOLhyphen"/>ledged from the paſſions of fleſh and bloud;<note place="margin">2 Tim. 2.1.</note> and therefore St. <hi>Paul</hi> enjoyns ſup<g ref="char:EOLhyphen"/>plications, prayers, interceſſions, and give<g ref="char:EOLhyphen"/>ing of thanks for all in Authority; we are obliged not onely to render <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>thanks,</hi> for the happineſſe of Government, and the good it brings with it, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſupplicati<g ref="char:EOLhyphen"/>ons,</hi> for the averting of Calamity from their <hi>perſons,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>prayers</hi> for thoſe graces they ſtand in need of; and we muſt ſend up to the throne of Grace <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>interceſsions,</hi> for God's pardoning unto them their ſins, for his remiſſion of their <hi>perſonal</hi> offences, as well as their <hi>publick</hi> failings. This well weighed would ſtop the cenſures of men, a ſenſe of this invites <hi>Nehemiah</hi> to <hi>wave</hi> all thoughts of his <hi>good deeds,</hi> to baniſh any thing which exceeds an humble <hi>Spare me;
+<pb n="31" facs="tcp:94397:19"/> he</hi> claims not a <hi>Crown</hi> for his <hi>merit,</hi> but pe<g ref="char:EOLhyphen"/>titions for a <hi>pardon</hi> for his <hi>failings,</hi> and that according to the <hi>multitude of mercies.</hi>
+            </p>
+            <p>Laſtly, <hi>Nehemiah</hi> cloſes up his whole Book with <hi>one</hi> word, which wholly <hi>clears</hi> his <hi>Prayer</hi> from <hi>preſumption,</hi> and that is, <hi>Remember me O my God for Good.</hi>
+            </p>
+            <p n="1">1. <hi>For good!</hi> This is the voice 1.<note place="margin">Remember me for good. This voice 1. of Humility.</note> of <hi>Hu<g ref="char:EOLhyphen"/>mility,</hi> whereby he acknowledges himſelf to be in a <hi>state</hi> capable of being <hi>made better;</hi> though he be highly <hi>loved</hi> by his <hi>Prince,</hi> and of great authority at <hi>Court,</hi> and tend<g ref="char:EOLhyphen"/>erly <hi>honoured</hi> by <hi>Prieſt</hi> and <hi>People,</hi> yet there is a <hi>greater good</hi> than all <hi>this</hi> which he <hi>aimes at,</hi> and makes the <hi>object</hi> of his deſires, and <hi>this</hi> he looks for <hi>there</hi> onely where it can be had, from his <hi>God,</hi> to <hi>him</hi> he cries, <hi>Re<g ref="char:EOLhyphen"/>member me for good.</hi>
+            </p>
+            <p n="2">2. <hi>For good!</hi>
+               <note place="margin">2. Of Faith.</note> This is the voice of <hi>confi<g ref="char:EOLhyphen"/>dence and truſt,</hi> it implies his ſtedfaſt <hi>beliefe</hi> that there is a <hi>reward</hi> laid up for <hi>good deeds</hi> in <hi>general,</hi> and that his <hi>good ſervices particu<g ref="char:EOLhyphen"/>larly ſhall be crowned with good.</hi>
+            </p>
+            <pb n="32" facs="tcp:94397:20"/>
+            <p>This <hi>God</hi> hath <hi>promiſed,</hi> and therefore every <hi>good man</hi> of us, as well as <hi>Nehemiah,</hi> may <hi>rely</hi> upon it; eſpecially if we make God peculiarly <hi>our own</hi> by our relyance and <hi>faith,</hi> ſo as to call him juſtly <hi>my God:</hi> and if we evidence out <hi>faith</hi> by our <hi>good deeds</hi> to <hi>God</hi> and to <hi>Man,</hi> if every one of us in our own Spheres <hi>diſcharge</hi> our <hi>duties</hi> to <hi>God,</hi> to our <hi>King,</hi> and to <hi>one another,</hi> if we do all this ſincerely and conſtantly, we may then confidently pray with <hi>good Nehemiah, Lord remember me;</hi> we may then be aſſured we ſhall not be <hi>forgotten,</hi> and that our humble <hi>Spare me</hi> will be attended with the <hi>greateſt good.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Application. </seg>
+               </label> I ſhould now deſcend to <hi>Application,</hi> but that I am confident that moſt of this <hi>Audi<g ref="char:EOLhyphen"/>tory</hi> have done that <hi>in their thoughts already,</hi> and therefore I ſhall conclude all with theſe 2 or 3 Queries, <note place="margin" type="runSum">Three queries.</note> which I ſhall leave to your own reſolution.</p>
+            <p>Whether, when <hi>we</hi> of this <hi>Kingdom</hi> were like thoſe of <hi>Ieruſalem,</hi> at a <hi>low ebb,</hi> ſur<g ref="char:EOLhyphen"/>rounded
+<pb n="33" facs="tcp:94397:20"/> with <hi>ſtormes</hi> and unexpected tem<g ref="char:EOLhyphen"/>peſts, when <hi>enemies</hi> preſt us <hi>without,</hi> and <hi>calamities</hi> and diſtreſſe diſheartned us <hi>with<g ref="char:EOLhyphen"/>in,</hi> whether <hi>then</hi> we were not happy in a gracious <hi>King,</hi> who pittying our ſad eſtate did give <hi>Commiſsion</hi> to a <hi>real Nehemiah,</hi> whoſe <hi>wiſdom</hi> and <hi>vigilance,</hi> whoſe <hi>courage</hi> and <hi>conduct</hi> preſerved a very <hi>ſmall handful</hi> from <hi>violence</hi> and <hi>ruine;</hi> whether our <hi>Pilot</hi> did not generouſly engage in <hi>our</hi> ſtorms to keep us ſafe, neglecting his <hi>private</hi> eaſe for the <hi>publick</hi> good, and <hi>charitably relieving</hi> the naked and <hi>poor,</hi> when he had but <hi>little</hi> left to <hi>maintain himſelf.</hi>
+            </p>
+            <p n="2">2. When <hi>Rapine</hi> and <hi>Confuſion</hi> encroa<g ref="char:EOLhyphen"/>ched upon the <hi>Office</hi> as well as the <hi>Patri<g ref="char:EOLhyphen"/>mony</hi> of the <hi>Church,</hi> when the <hi>chambers</hi> of the <hi>Sanctuary</hi> were fill'd with <hi>Tobiah</hi> and his <hi>followers,</hi> when the <hi>portions</hi> of <hi>Gods Al<g ref="char:EOLhyphen"/>tar</hi> were ſhared betwixt <hi>Sanballat</hi> and his <hi>crue,</hi> whether then <hi>we</hi> were not <hi>once more</hi> (by the care of our preſent Soveraign) made happy with <hi>his return,</hi> under whoſe
+<pb n="34" facs="tcp:94397:21"/> 
+               <hi>wing</hi> and protection we had been formerly <hi>preſerved?</hi> whether <hi>he</hi> hath not upon all oc<g ref="char:EOLhyphen"/>caſions both <hi>before</hi> and <hi>now</hi> encouraged <hi>re<g ref="char:EOLhyphen"/>ligion,</hi> and reſpected the very <hi>perſons</hi> as well as the <hi>function</hi> of the <hi>Clergy?</hi> Whether he did not refuſe all profers which were in the leaſt inconſiſtent with his <hi>duty</hi> to <hi>God</hi> or his <hi>Prince,</hi> or the <hi>tranquillity</hi> of his <hi>Charge,</hi> whether I ſay upon all opportunities he hath not ſhewed himſelf a <hi>Nehemiah in<g ref="char:EOLhyphen"/>deed?</hi>
+            </p>
+            <p>Laſtly, if upon <hi>ſearch</hi> we find <hi>all this</hi> and <hi>much more</hi> to be <hi>true,</hi> then, whether we of <hi>this place</hi> are not obliged 1. to <hi>thank God for his mercy,</hi> 2 to <hi>thank</hi> our <hi>Sovereign</hi> for his <hi>ſtill continued care</hi> in ſending <hi>ſuch</hi> to <hi>cheriſh</hi> and <hi>protect us,</hi> 3. (to conclude all) whether it does not <hi>befit us</hi> that that <hi>requeſt</hi> which <hi>Nehemiah</hi> in my Text put up for <hi>himſelf,</hi> may be <hi>our joynt Prayer</hi> for <hi>him,</hi> whoſe Go<g ref="char:EOLhyphen"/>vernment and Care we have had ſo kind an Experience of, <hi>viz.</hi> That <hi>God would re<g ref="char:EOLhyphen"/>member both him and us for good,</hi> that <hi>he
+<pb n="35" facs="tcp:94397:21"/> would spare them according to the multitude of his mercies,</hi> that <hi>he would not wipe out all the good deeds which he and they all have done for this whole Nation, for God's Church, and for the Offices thereof.</hi> Amen.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
